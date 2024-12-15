@@ -1,0 +1,22 @@
+# Entorno virtual
+entorno_gestion_pedidos/
+
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Configuración de base de datos local
+*.sqlite3
+
+# Archivos de configuración sensibles
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por Docker
+*.log
+
+# Node.js (si usas Node en algún punto)
+node_modules/
